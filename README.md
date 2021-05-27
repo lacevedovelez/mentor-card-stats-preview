@@ -1,11 +1,13 @@
 # Frontend Mentor | Stats preview card component
 
 ## Tabla de contenido 🚀
-1. [Información General](#general-info)
-2. [Tecnologias](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+1. [Información General](#Informacion-General)
+2. [Tecnologias](#Tecnologias)
+3. [Installation](#Instalacion)
+4. [Wiki](#wiki)
+5. [Versionado](#Versionado)
+6. [Autores](#Autores)
+7. [Licencia](#Licencia)
 
 ### Informacion General 📋
 ***
@@ -22,7 +24,7 @@ Una lista de tecnologías utilizadas dentro del proyecto:
 * [SASS](https://example.com): Version 3.6.5
 * [MATERIALIZE](https://materializecss.com): Version 1.0.0
 
-## Instalación 🔧
+## Instalacion 🔧
 ***
 Una pequeña introducción sobre la instalación.
 ```
