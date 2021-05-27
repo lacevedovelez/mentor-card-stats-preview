@@ -25,6 +25,8 @@ Descarga el proyecto y revisa el [README.md](https://www.frontendmentor.io/chall
 
 ![Image text](https://res.cloudinary.com/dz209s6jk/image/upload/v1618491772/Challenges/t26y9p3veejvbc9biv3f.jpg)
 
+Resultado del Desafio:
+
 https://mentor-card-stats-preview.netlify.app/
 
 ## Tecnologias 🛠️
