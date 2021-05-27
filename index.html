@@ -39,7 +39,11 @@
 
       </div>
       <div class="card-img">
-        <img src="./images/image-header-desktop.jpg" alt="" srcset="">
+        <picture>
+          <source media="(max-width:600px)" srcset="./images/image-header-desktop.jpg">
+          <source media="(min-width:600px)" srcset="./images/image-header-mobile.jpg">
+          <img src="./images/image-header-desktop.jpg" alt="Imagen de Desktop">
+        </picture>
       </div>
     </article>
   
