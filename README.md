@@ -1,19 +1,29 @@
 # Frontend Mentor | Stats preview card component
 
 ## Tabla de contenido 🚀
-1. [Información General](#Informacion-General)
-2. [Tecnologias](#Tecnologias)
-3. [Installation](#Instalacion)
-4. [Wiki](#wiki)
-5. [Versionado](#Versionado)
-6. [Autores](#Autores)
-7. [Licencia](#Licencia)
+1. [Información General](#informacion-general-)
+2. [Tecnologias](#tecnologias-%EF%B8%8F)
+3. [Installation](#instalacion-)
+4. [Wiki](#wiki-)
+5. [Versionado](#versionado-)
+6. [Autores](#autores-%EF%B8%8F)
+7. [Licencia](#licencia-)
+8. [Expresiones de Gratitud](#expresiones-de-gratitud-)
 
 ### Informacion General 📋
 ***
-El desafío fue construir este componente de la tarjeta y hacer que se parezca lo más posible al diseño. 
+El desafío fue construir este componente de la tarjeta y hacer que se parezca lo más posible al diseño.
+
+Puedes usar cualquier herramienta que te guste para ayudarte a completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
+
+Sus usuarios deberían poder:
+
+Ver el diseño óptimo según el tamaño de la pantalla de su dispositivo
+Descarga el proyecto y revisa el [README.md](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62) archivo. Esto proporcionará más detalles sobre el proyecto y lo ayudará a configurarlo.
 
 ### Screenshot
+
+![Image text](https://res.cloudinary.com/dz209s6jk/image/upload/v1618491772/Challenges/t26y9p3veejvbc9biv3f.jpg)
 
 https://mentor-card-stats-preview.netlify.app/
 
